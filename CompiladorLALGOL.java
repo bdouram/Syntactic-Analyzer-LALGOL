@@ -6,7 +6,7 @@ import java.util.Map;
 
 /**
  *
- * @author Bruno Dourado Miranda RA:153277
+ * @author Bruno Dourado Miranda 
  */
 public class CompiladorLALGOL {
 
