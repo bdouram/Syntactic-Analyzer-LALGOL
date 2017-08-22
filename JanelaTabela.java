@@ -3,7 +3,7 @@ package compiladorlalgol;
 import static compiladorlalgol.CompiladorLALGOL.lista;
 /**
  *
- * @author Bruno Dourado Miranda RA:153277
+ * @author Bruno Dourado Miranda
  */
 public class JanelaTabela extends javax.swing.JFrame {
 
